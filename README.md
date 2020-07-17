@@ -2,7 +2,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/AkshitKhajuria/S371.github.io)](https://github.com/AkshitKhajuria/S371.github.io/network)
 [![GitHub stars](https://img.shields.io/github/stars/AkshitKhajuria/S371.github.io?color=green)](https://github.com/AkshitKhajuria/S371.github.io/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/AkshitKhajuria/S371.github.io?color=yellow)](https://github.com/AkshitKhajuria/S371.github.io/issues)
-[![HitCount](http://hits.dwyl.com/AkshitKhajuria/S371githubio.svg)](http://hits.dwyl.com/AkshitKhajuria/S371githubio)  
 
 # Studio 371 Art Club 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)  
