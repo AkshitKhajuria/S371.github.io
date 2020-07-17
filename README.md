@@ -1,7 +1,8 @@
 [![GitHub license](https://img.shields.io/github/license/AkshitKhajuria/S371.github.io)](https://github.com/AkshitKhajuria/S371.github.io/blob/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/AkshitKhajuria/S371.github.io)](https://github.com/AkshitKhajuria/S371.github.io/network)
 [![GitHub stars](https://img.shields.io/github/stars/AkshitKhajuria/S371.github.io?color=green)](https://github.com/AkshitKhajuria/S371.github.io/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/AkshitKhajuria/S371.github.io?color=yellow)](https://github.com/AkshitKhajuria/S371.github.io/issues)  
+[![GitHub issues](https://img.shields.io/github/issues/AkshitKhajuria/S371.github.io?color=yellow)](https://github.com/AkshitKhajuria/S371.github.io/issues)
+[![HitCount](http://hits.dwyl.com/AkshitKhajuria/S371githubio.svg)](http://hits.dwyl.com/AkshitKhajuria/S371githubio)  
 
 # Studio 371 Art Club 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)  
@@ -28,6 +29,8 @@ If you're-
 
 Then you can contribute! We have space and appreciation for all types of creative content!
 
+## Top Contributors!:rocket:  
+[![](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/images/0)](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/links/0)[![](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/images/1)](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/links/1)[![](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/images/2)](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/links/2)[![](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/images/3)](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/links/3)[![](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/images/4)](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/links/4)[![](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/images/5)](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/links/5)[![](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/images/6)](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/links/6)[![](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/images/7)](https://sourcerer.io/fame/AkshitKhajuria/AkshitKhajuria/S371.github.io/links/7)  
 
 ## Reach Out to Us!
 - Insta  https://www.instagram.com/s371_nmit/
