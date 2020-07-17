@@ -8,7 +8,7 @@
 
 * **What's this?**<br>
 
-Hi creative stargazer :star_struck:! Welcome to our ~~websi~~... err, website-under-the-hood :nerd_face:; a starting off point for our very own web page :astonished! We're a group of creative people part of our colleg Arts and Craft club. 
+Hi creative stargazer :star_struck:! Welcome to our ~~websi~~... err, website-under-the-hood :nerd_face:; a starting off point for our very own web page :astonished: ! We're a group of creative people part of our colleg Arts and Craft club. 
 
 If you're starting out your web dev journey, this might be a good place to start! We're happy to have creative people to contribute.
 
