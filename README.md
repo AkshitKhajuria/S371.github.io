@@ -8,9 +8,9 @@
 
 * **What's this?**<br>
 
-Hi creative stargazer :star_struck:! Welcome to our ~~websi~~... err, website-under-the-hood :nerd_face:; a starting off point for our very own web page :astonished: ! We're a group of creative people part of our colleg Arts and Craft club. 
+Hi creative stargazer :star_struck:! Welcome to our ~~websi~~... err, website-under-the-hood :octocat:; a starting off point for our very own web page :astonished: ! We're a group of creative- people part of our college Arts and Craft club. 
 
-If you're starting out your web dev journey, this might be a good place to start! We're happy to have creative people to contribute.
+If you're starting out your web dev journey, this might be a good place to start :checkered_flag:! We're happy to have creative people to contribute.
 
 * **But i don't know anything about web developement! :pleading_face:**<br>
 
@@ -34,4 +34,4 @@ Then you can contribute! We have space and appreciation for all types of creativ
 - Facebook  https://www.facebook.com/artudio371
 - LinkedIn (Yes, that's right! We're now on LinkedIn as well!)  https://www.linkedin.com/company/studio371  
 
-And of course our website. (Probably not when it's under conatruction :stuck_out_tongue_closed_eyes:)  https://akshitkhajuria.github.io/S371.github.io/
+And of course our website. (Probably not a good idea when it's under conatruction :stuck_out_tongue_closed_eyes:)  https://akshitkhajuria.github.io/S371.github.io/
