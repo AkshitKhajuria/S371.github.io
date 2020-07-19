@@ -32,6 +32,40 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
   height: 2.75rem;
   overflow-y: hidden;
+  background: #2F8475;
+}
+
+.nav-scroller .nav a:hover {
+  background-color: #93DA49;
+  color: #264445 !important;
+  transition-duration: 0.2s;
+}
+
+.nav-scroller .nav a {
+  transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -webkit-transition-duration: 0.3s;
+}
+
+a {
+  color: #2F8475;
+}
+
+a:hover {
+  color: #93DA49;
+}
+
+aside li {
+  border-radius: 0.15rem;
+}
+
+aside .list-unstyled li:hover {
+  background-color: #93DA49;
+  color: #264445 !important;
+}
+
+aside .list-unstyled a:hover {
+  color: #264445 !important;
 }
 
 .nav-scroller .nav {
@@ -76,6 +110,10 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 2rem;
 }
 
+aside {
+  background-color: #2F8475;
+}
+
 /*
  * Blog posts
  */
@@ -89,18 +127,4 @@ h1, h2, h3, h4, h5, h6 {
 .blog-post-meta {
   margin-bottom: 1.25rem;
   color: #999;
-}
-
-/*
- * Footer
- */
-.blog-footer {
-  padding: 2.5rem 0;
-  color: #999;
-  text-align: center;
-  background-color: #f9f9f9;
-  border-top: .05rem solid #e5e5e5;
-}
-.blog-footer p:last-child {
-  margin-bottom: 0;
 }
